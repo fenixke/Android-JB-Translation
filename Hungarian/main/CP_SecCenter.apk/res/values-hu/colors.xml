@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="solid_red">#ffff0000</color>
+    <color name="solid_blue">#ff0000ff</color>
+    <color name="solid_green">#ff00ff00</color>
+    <color name="solid_yellow">#ffffff00</color>
+    <color name="list_title">#ffb1b1b2</color>
+    <color name="check_button">#ff3f7f00</color>
+    <color name="enabled_text">#ff808c80</color>
+    <color name="set_button_text">#ff669727</color>
+    <color name="spec_color">#ffd24f00</color>
+    <color name="white_color">#ffffffff</color>
+    <color name="maintable_icon_color">#ff000000</color>
+    <color name="ButtonTextColor">#ff417300</color>
+    <color name="color_unselected">#ff7e858a</color>
+    <color name="color_selected">#ff000000</color>
+    <color name="color_gray">#ff707070</color>
+    <color name="color_list_title">#ff0e0e0e</color>
+    <color name="color_list_bg">#fffefcfc</color>
+    <color name="color1">#88556600</color>
+    <color name="color">#ffffffff</color>
+</resources>

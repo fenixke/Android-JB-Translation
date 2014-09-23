@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Audió profilok</string>
+    <string name="scene_mode_settings_title">Audió profilok</string>
+    <string name="standard_mode">Általános mód</string>
+    <string name="airplane_mode">Repülő mód</string>
+    <string name="quiet_mode">Néma mód</string>
+    <string name="vip_mode">VIP mód</string>
+    <string name="meeting_mode">Tárgyalás mód</string>
+    <string name="outside_mode">Kültéri mód</string>
+    <string name="phone_mode">Felhasználói mód</string>
+    <string name="saving_mode">Energiatakarékos mód</string>
+    <string name="smart_mode">Okos mód</string>
+    <string name="anti_disturb_mode">Ne zavarjanak mód</string>
+    <string name="demo_mode">Demó mód</string>
+    <string name="standard_mode_settings">Általános mód</string>
+    <string name="airplane_mode_settings">Repülő mód</string>
+    <string name="quiet_mode_settings">Néma mód</string>
+    <string name="vip_mode_settings">VIP mód</string>
+    <string name="meeting_mode_settings">Tárgyalás mód</string>
+    <string name="outside_mode_settings">Kültéri mód</string>
+    <string name="phone_mode_settings">Felhasználói mód</string>
+    <string name="saving_mode_settings">Energiatakarékos mód</string>
+    <string name="volume">Hangerő</string>
+    <string name="ringer_stronger">Fokozatosan növekvő</string>
+    <string name="vibrate_hint">Device vibration</string>
+    <string name="ring_vibrate_hint">Sound vibration</string>
+    <string name="notif_vibrate_hints">Notification vibration</string>
+    <string name="ringtone">Csengőhang</string>
+    <string name="ringtone_c">Csengőhang (CDMA)</string>
+    <string name="ringtone_g">Csengőhang (GSM)</string>
+    <string name="ringtone_card1">Csengőhang (1. kártya)</string>
+    <string name="ringtone_card2">Csengőhang (2. kártya)</string>
+    <string name="ringtones">Csengőhang</string>
+    <string name="record">Felvételek</string>
+    <string name="music">Zenék</string>
+    <string name="choose_ringtone">Csengőhang választása</string>
+    <string name="ringtone_title">Csengőhang</string>
+    <string name="sms_ringtone">Üzenet hang</string>
+    <string name="sms_ringtone_c">Üzenet hang (CDMA)</string>
+    <string name="sms_ringtone_g">Üzenet hang (GSM)</string>
+    <string name="sms_ringtone_card1">Üzenet hang (1. kártya)</string>
+    <string name="sms_ringtone_card2">Üzenet hang (2. kártya)</string>
+    <string name="receive_sms_ringtone">Bejövő SMS hang</string>
+    <string name="send_sms_ringtone">Kimenő SMS hang</string>
+    <string name="send_email_ringtone">Kimenő email hang</string>
+    <string name="receive_email_ringtone">Bejövő email hang</string>
+    <string name="push_email_ringtone">PUSH email hang</string>
+    <string name="recover_original">Alaphelyzet</string>
+    <string name="set_current_mode">Alkalmaz</string>
+    <string name="receive_sms_vibrate">Bejövő SMS rezgés</string>
+    <string name="receive_email_vibrate">Bejövő email rezgés</string>
+    <string name="auto_left_message">Auto left message</string>
+    <string name="recovery_title">Alaphelyzet</string>
+    <string name="recovery_tips">Alaphelyzet visszaállítása?</string>
+    <string name="scene_mode_choose">Mód</string>
+    <string name="standard_mode_description">Általános működéshez javasolt.</string>
+    <string name="airplane_mode_description">Az eszköz működik, de hálózati kapcsolat nélkül.</string>
+    <string name="quiet_mode_description">Az eszköz lenémítva működik.</string>
+    <string name="vip_mode_description">A VIP beállítások lépnek érvénybe.</string>
+    <string name="meeting_mode_description">A készülék csak rezegni fog.</string>
+    <string name="outside_mode_description">A készülék hanggal is jelez és rezegni is fog.</string>
+    <string name="phone_mode_description">A készülék csak a beérkező hívásoknál jelez.</string>
+    <string name="saving_mode_description">Az energiaigényes folyamatok korlátozódni fognak.</string>
+    <string name="demo_mode_description">Bolti mód (csak eladáskor érdekes).</string>
+    <string name="anti_disturb_mode_description">A hívások és üzenetek a megadottak szerint blokkolódnak.</string>
+    <string name="default_ringtone">(Alapértelmezett)</string>
+    <string name="not_support_file">Ez a fájlformátum nem támogatott.</string>
+    <string name="mtk_calling_unable_change_mode">Hívás közben nem lehet módot váltani.</string>
+    <string name="calling_unable_change_mode">Hívás közben nem lehet módot váltani.</string>
+    <string name="calling_enable_change_airplane">Hívás közben nem lehet repülő módba váltani.</string>
+    <string name="mode_changing">Mód váltása... próbálja meg később.</string>
+    <string name="ring_volume_text">Csengőhang<font size="16"> hívásokhoz</font></string>
+    <string name="music_volume_text">Média<font size="16"> Zenék, videókhoz</font></string>
+    <string name="alarm_volume_text">Riasztás</string>
+    <string name="system_volume_text">Rendszer<font size="16"> indítás és kikapcsolás</font></string>
+    <string name="notification_volume_text">Értesítés<font size="16"> SMS-hez és emailekhez</font></string>
+    <string name="quiet">Csendes</string>
+    <string name="vibrate">Rezgés</string>
+    <string name="add">Mód létrehozása</string>
+    <string name="delete">Mód törlése</string>
+    <string name="modeName">Név</string>
+    <string name="modeDescription">Leírás</string>
+    <string name="ringStrongerDescription">Nem rezgő mód esetén</string>
+    <string name="railmodePasswordTitle"><font size="18">Adja meg jelszavát</font></string>
+    <string name="railmodePasswordHint"><font fgcolor="#ffff0000">A megadott jelszó hibás. Próbálja meg újra.</font></string>
+    <string name="railmodePasswordSummery">This mode serves only sales-oriented product presentation.</string>
+    <string name="railmodePasswordDescription"><font size="14">Import contacts, call log, and message data</font></string>
+</resources>

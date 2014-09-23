@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="wallpaper_sort_items">
+        <item>Felkapott</item>
+        <item>HD</item>
+        <item>Nők</item>
+        <item>Jelenet</item>
+        <item>Látomás</item>
+        <item>Rajzfilm</item>
+        <item>Város</item>
+        <item>Szerelem</item>
+        <item>Újdonság</item>
+        <item>Állatok</item>
+        <item>Járművek</item>
+        <item>Játékok</item>
+        <item>Ajándékok</item>
+        <item>Férfiak</item>
+        <item>Művészet</item>
+        <item>Sport</item>
+        <item>Film</item>
+        <item>Egyéb</item>
+    </string-array>
+    <string-array name="effect_items">
+        <item>Véletlenszerű</item>
+        <item>Klassszikus</item>
+        <item>Halmozás</item>
+        <item>Kocka</item>
+        <item>Kocka belülrőle</item>
+        <item>Forgat</item>
+        <item>Lapoz</item>
+        <item>Szélmalom</item>
+        <item>Kerék</item>
+        <item>Gyűjtés</item>
+        <item>Kígyó</item>
+        <item>Húr</item>
+    </string-array>
+    <string-array name="change_items">
+        <item>Érintse meg a zárképernyő stílusának váltásához</item>
+        <item>Érintse meg a zárképernyő hátterének váltásához</item>
+        <item>Érintse meg az indítóképernyő hátterének váltásához</item>
+        <item>Érintse meg az alkalmazáslista hátterének váltásához</item>
+        <item>Érintse meg a felület színének váltásához</item>
+        <item>Érintse meg a hatás váltásához</item>
+        <item>Érintse meg a betűtípus váltásához</item>
+    </string-array>
+    <string-array name="frequency_items">
+        <item>1mp</item>
+        <item>2mp</item>
+        <item>3mp</item>
+        <item>4mp</item>
+        <item>5mp</item>
+        <item>6mp</item>
+        <item>7mp</item>
+        <item>8mp</item>
+        <item>9mp</item>
+        <item>10mp</item>
+        <item>11mp</item>
+        <item>12mp</item>
+    </string-array>
+    <array name="effect_items_drawables">
+        <item>@drawable/coolshow_effects_random</item>
+        <item>@drawable/coolshow_effects_classic</item>
+        <item>@drawable/coolshow_effects_cascading</item>
+        <item>@drawable/coolshow_effects_cube</item>
+        <item>@drawable/coolshow_effects_cube</item>
+        <item>@drawable/coolshow_effects_fan</item>
+        <item>@drawable/coolshow_effects_folding</item>
+        <item>@drawable/coolshow_effects_card</item>
+        <item>@drawable/coolshow_effects_car_wheel</item>
+        <item>@drawable/coolshow_effects_gather</item>
+        <item>@drawable/coolshow_effects_gluttong_snake</item>
+        <item>@drawable/coolshow_effects_string</item>
+    </array>
+    <string-array name="pay_shenzhoufu_charge_card_title">
+        <item>移动卡</item>
+        <item>联通卡</item>
+        <item>电信卡</item>
+    </string-array>
+</resources>

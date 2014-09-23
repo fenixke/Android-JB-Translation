@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="alarm_alert_snooze_set">
+        <item quantity="other">Szundi %d percig.</item>
+        <item quantity="zero">Szundi %d percig.</item>
+        <item quantity="one">Szundi %d percig.</item>
+        <item quantity="two">Szundi %d percig.</item>
+        <item quantity="few">Szundi %d percig.</item>
+        <item quantity="many">Szundi %d percig.</item>
+    </plurals>
+    <plurals name="missed_alarms_msg">
+        <item quantity="other">%d kimaradt riasztás</item>
+        <item quantity="zero">%d kimaradt riasztás</item>
+        <item quantity="one">%d kimaradt riasztás</item>
+        <item quantity="two">%d kimaradt riasztás</item>
+        <item quantity="few">%d kimaradt riasztás</item>
+        <item quantity="many">%d kimaradt riasztás</item>
+    </plurals>
+    <plurals name="alarm_snooze_button_text">
+        <item quantity="other">%d perc szundi</item>
+        <item quantity="zero">%d perc szundi</item>
+        <item quantity="one">%d perc szundi</item>
+        <item quantity="two">%d perc szundi</item>
+        <item quantity="few">%d perc szundi</item>
+        <item quantity="many">%d perc szundi</item>
+    </plurals>
+    <plurals name="setting_intervals">
+        <item quantity="other">%d perces ébresztési időközök</item>
+        <item quantity="zero">%d perces ébresztési időközök</item>
+        <item quantity="one">%d perces ébresztési időközök</item>
+        <item quantity="two">%d perces ébresztési időközök</item>
+        <item quantity="few">%d perces ébresztési időközök</item>
+        <item quantity="many">%d perces ébresztési időközök</item>
+    </plurals>
+    <plurals name="setting_silence">
+        <item quantity="other">, automatikus elhallgatás %d alkalom után</item>
+        <item quantity="zero">, automatikus elhallgatás %d alkalom után</item>
+        <item quantity="one">, automatikus elhallgatás %d alkalom után</item>
+        <item quantity="two">, automatikus elhallgatás %d alkalom után</item>
+        <item quantity="few">, automatikus elhallgatás %d alkalom után</item>
+        <item quantity="many">, automatikus elhallgatás %d alkalom után</item>
+    </plurals>
+    <plurals name="city_count">
+        <item quantity="other">%d találat</item>
+        <item quantity="zero">%d találat</item>
+        <item quantity="one">%d találat</item>
+        <item quantity="two">%d találat</item>
+        <item quantity="few">%d találat</item>
+        <item quantity="many">%d találat</item>
+    </plurals>
+    <plurals name="delete_alarms_confirm">
+        <item quantity="other">Eltávolítja ezt a(z) %d ébresztést?</item>
+        <item quantity="zero">Eltávolítja ezt a(z) %d ébresztést?</item>
+        <item quantity="one">Eltávolítja ezt az ébresztést?</item>
+        <item quantity="two">Eltávolítja ezt a(z) %d ébresztést?</item>
+        <item quantity="few">Eltávolítja ezt a(z) %d ébresztést?</item>
+        <item quantity="many">Eltávolítja ezt a(z) %d ébresztést?</item>
+    </plurals>
+</resources>

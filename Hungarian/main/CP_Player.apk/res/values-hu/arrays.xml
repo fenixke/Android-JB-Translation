@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="time">
+        <item>10 perc</item>
+        <item>30 perc</item>
+        <item>60 perc</item>
+        <item>90 perc</item>
+    </string-array>
+    <string-array name="weeklist">
+        <item>1 hét</item>
+        <item>2 hét</item>
+        <item>3 hét</item>
+        <item>4 hét</item>
+        <item>5 hét</item>
+        <item>6 hét</item>
+        <item>7 hét</item>
+        <item>8 hét</item>
+        <item>9 hét</item>
+        <item>10 hét</item>
+        <item>11 hét</item>
+        <item>12 hét</item>
+    </string-array>
+    <string-array name="menu_array_radio">
+        <item>火爆新歌</item>
+        <item>经典老歌</item>
+        <item>80-as évek</item>
+        <item>粤语</item>
+        <item>快乐旋律</item>
+        <item>90-es évek</item>
+        <item>轻音乐</item>
+        <item>清凉夏日</item>
+        <item>甜蜜感受</item>
+        <item>慵懒午后</item>
+        <item>儿歌</item>
+        <item>旅行</item>
+        <item>摇滚</item>
+    </string-array>
+    <string-array name="local_item_options_1">
+        <item>Mind</item>
+        <item>Kedvenc</item>
+        <item>Letöltések</item>
+        <item>Legutóbbi</item>
+        <item>Játéklistám</item>
+        <item>Zenefájlok</item>
+    </string-array>
+    <string-array name="local_item_options2_1">
+        <item>Mind</item>
+        <item>Kedvenc</item>
+        <item>Legutóbbi</item>
+        <item>Játéklistám</item>
+        <item>Zenefájlok</item>
+    </string-array>
+    <string-array name="menu_ringtone_list">
+        <item>1. kártya csengőhang</item>
+        <item>2. kártya csengőhang</item>
+    </string-array>
+    <string-array name="local_classify_items_text">
+        <item>Mind</item>
+        <item>Kedvenc</item>
+        <item>Énekes</item>
+        <item>Legutóbbi</item>
+    </string-array>
+    <string-array name="ringtone_list">
+        <item>1. kártya csengőhang</item>
+        <item>2. kártya csengőhang</item>
+    </string-array>
+</resources>

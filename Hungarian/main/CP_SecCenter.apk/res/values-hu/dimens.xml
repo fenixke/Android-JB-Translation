@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="piding">7.0dip</dimen>
+    <dimen name="toping">6.0dip</dimen>
+    <dimen name="systemleft">8.0dip</dimen>
+    <dimen name="systemtop">41.0dip</dimen>
+    <dimen name="systemright">200.0dip</dimen>
+    <dimen name="systembottom">57.0dip</dimen>
+    <dimen name="letfstr">214.0dip</dimen>
+    <dimen name="usedstr">214.0dip</dimen>
+    <dimen name="letfnum">260.0dip</dimen>
+    <dimen name="usestr">38.0dip</dimen>
+    <dimen name="usenum">260.0dip</dimen>
+    <dimen name="greenfont">17.0dip</dimen>
+</resources>

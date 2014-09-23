@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="hello">Hello World, FlashLight_Activity!</string>
+    <string name="app_name">Zseblámpa</string>
+    <string name="low_battery">Az alacsony akkuszint miatt a zseblámpát nem lehet használni.</string>
+    <string name="flashlight_is_busy">A led jelző foglalt, próbálja később.</string>
+    <string name="camera_is_running">A kamera aktív, zárja be és próbálja újra.</string>
+    <string name="mirror_is_running">A tükrözés aktív, zárja be és próbálja újra</string>
+    <string name="flashlight_notification">Zseblámpa elindítva</string>
+</resources>

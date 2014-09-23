@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="lowpower_dialog_mode_items_display">
+        <item>Energiahatékony</item>
+        <item>Hosszú készenlét</item>
+    </string-array>
+    <string-array name="screen_off_time">
+        <item>15 mp</item>
+        <item>30 mp</item>
+        <item>1 perc</item>
+        <item>2 perc</item>
+        <item>5 perc</item>
+        <item>10 perc</item>
+        <item>30 perc</item>
+        <item>Soha ne kapcsolja ki</item>
+    </string-array>
+    <string-array name="close_apn_time">
+        <item>15 másodperc</item>
+        <item>30 másodperc</item>
+        <item>1 perc</item>
+        <item>2 perc</item>
+        <item>3 perc</item>
+        <item>5 perc</item>
+        <item>10 perc</item>
+    </string-array>
+</resources>

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="app_process_limit_entries">
+        <item>Szabvány korlát</item>
+        <item>Nincsenek háttérfolyamatok</item>
+        <item>Maximum 1 háttérfolyamat</item>
+        <item>Maximum 2 háttérfolyamat</item>
+        <item>Maximum 3 háttérfolyamat</item>
+        <item>Maximum 4 háttérfolyamat</item>
+    </string-array>
+</resources>
