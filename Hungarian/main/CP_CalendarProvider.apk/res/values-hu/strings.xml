@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="calendar_storage">Naptár tároló</string>
+    <string name="upgrade_msg">Naptár adatbázis frissítése.</string>
+    <string name="calendar_default_name">Alapértelmezett</string>
+    <string name="calendar_info">Naptár információ</string>
+    <string name="calendar_info_error">Hiba</string>
+    <string name="calendar_info_no_calendars">Nincsenek naptárak</string>
+    <string name="calendar_info_events">Események: %1$d</string>
+    <string name="calendar_info_events_dirty">Események: %1$d, Nem mentett: %2$d</string>
+    <string name="provider_label">Naptár</string>
+    <string name="debug_tool_delete_button">Törlés most</string>
+    <string name="debug_tool_start_button">Indítás</string>
+    <string name="debug_tool_message">A továbbiakban 1) készít egy másolatot a naptár adatbázisáról az SD kártyára/USD tárolóra, ami olvasható bármilyen alkalmazás által és 2) elküldi e-mailben. Ne felejtse törölni, amint sikeresen átmásolta az eszközre, vagy megérkezett az e-mail.</string>
+    <string name="debug_tool_email_sender_picker">Válassz egy programot a fájl küldéséhez</string>
+    <string name="debug_tool_email_subject">Naptár DB hozzáadva</string>
+    <string name="debug_tool_email_body">Csatolva a naptáram adatbázisa az összes találkozóval és személyes információval. Kérem kezelje bizalmasan.</string>
+    <string name="chinese_month">Hónap</string>
+    <string name="chinese_day">Nap</string>
+    <string name="lunar_month">"'01','12','02','03','04','05','06','07','08','09','10','11'"</string>
+    <string name="cal_my_calendar">Saját Naptár</string>
+    <string name="pg_calendar_label">Naptár Jogosultság Csoport</string>
+    <string name="pg_calendar_desc">Naptár Jogosultság Csoport</string>
+    <string name="private_label">privát jogosultság</string>
+    <string name="private_desc">privát naptár adat lekérése</string>
+    <string name="dot_birth_label">. Születésnap</string>
+    <string name="dot_anni_label">. Évforduló</string>
+</resources>
